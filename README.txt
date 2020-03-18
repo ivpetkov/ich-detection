@@ -5,7 +5,7 @@ Iva Petkov & Chhavi Singal
 Links
   - Project description: https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection
   - Original dataset: https://www.kaggle.com/guiferviz/rsna_stage1_png_128
-  - Sorted dataset: https://drive.google.com/file/d/1nySkSy2biFo8Ulh3Xq4dO5QJ9kQH2yfU/view?usp=sharing
+  - Sorted dataset: https://drive.google.com/open?id=1OHCR7B3VVnW0f1tRIaDBq3EGAYB9fSw5
 
 Files
 parser_dcm.py
