@@ -12,4 +12,4 @@ parser_dcm.py
   - Python script used to sort original dataset into directories in sorted dataset
 final_ich_detection_model.ipynb
   - Google Colab notebook containing model code
-  - Must have original dataset in Google Drive in order to access in notebook
+  - Must have sorted dataset in your Google Drive in order to access in notebook
